@@ -46,7 +46,8 @@ According to statistics, from 1998 to 2017, there were 709 children in the Unite
 * 1 cooling fan
 * 2 SDCard
 * 2 mobile power
-* ![00](https://github.com/pfli07/Intelligent-protection-system-for-forgotten-children-in-vehicle/blob/master/screenshots/waiguan.jpg)![00](https://github.com/pfli07/Intelligent-protection-system-for-forgotten-children-in-vehicle/blob/master/screenshots/neibu.jpg)
+* The physical picture shown below
+![00](https://github.com/pfli07/Intelligent-protection-system-for-forgotten-children-in-vehicle/blob/master/screenshots/waiguan.jpg)![00](https://github.com/pfli07/Intelligent-protection-system-for-forgotten-children-in-vehicle/blob/master/screenshots/neibu.jpg)
 ### Required Software
 * Metaware or ARC GNU Toolset
 * Serial port terminal, such as putty, tera-term or minicom
