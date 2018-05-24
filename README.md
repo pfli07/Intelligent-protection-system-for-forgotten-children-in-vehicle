@@ -96,6 +96,7 @@ The hardware resources are allocated as following table.
                 TOOLCHAIN ?= gnu
                 
 - The relative series of the root directory, here the path of the Makefile is 
+`./Intelligent-protection-system-for-forgotten-children-in-vehicle/src/makefile`:
 
                 #
                 # root dir of embARC
