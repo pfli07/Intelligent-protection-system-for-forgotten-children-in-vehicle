@@ -95,7 +95,7 @@ The hardware resources are allocated as following table.
                 CUR_CORE ?= arcem7d
                 TOOLCHAIN ?= gnu
                 
-- The relative series of the root directory, here the path of the Makefile is 
+- The relative series of the root directory, here the path of the Makefile is<br/> 
 `./Intelligent-protection-system-for-forgotten-children-in-vehicle/src/makefile`:
 
                 #
